@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "reelmint": {
+      "command": "npx",
+      "args": [
+        "-y", "mcp-remote", "https://api.reel-mint.com/mcp",
+        "--header", "Authorization: Bearer YOUR_TOKEN"
+      ]
+    }
+  }
+}

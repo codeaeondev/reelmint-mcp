@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reelmint": {
+      "url": "https://api.reel-mint.com/mcp",
+      "headers": { "Authorization": "Bearer YOUR_TOKEN" }
+    }
+  }
+}
